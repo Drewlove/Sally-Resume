@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.work-experience{
+    margin-left: 25px; 
+}
+
+.work-experience>h2{
+    margin-top: 0; 
+}
